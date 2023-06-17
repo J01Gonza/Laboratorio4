@@ -1,0 +1,11 @@
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\bin\Debug\MathServiceApp.exe.config
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\bin\Debug\MathServiceApp.exe
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\bin\Debug\MathServiceApp.pdb
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.csproj.AssemblyReference.cache
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.Form1.resources
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.Properties.Resources.resources
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.csproj.GenerateResource.cache
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.exe
+C:\Users\Juan González\source\repos\MathServiceApp\MathServiceApp\obj\Debug\MathServiceApp.pdb

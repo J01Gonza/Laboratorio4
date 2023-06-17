@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistorialServiceApp", "HistorialServiceApp\HistorialServiceApp.csproj", "{9465C9A7-C5D0-404A-A375-5BF72F65D485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9465C9A7-C5D0-404A-A375-5BF72F65D485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9465C9A7-C5D0-404A-A375-5BF72F65D485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9465C9A7-C5D0-404A-A375-5BF72F65D485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9465C9A7-C5D0-404A-A375-5BF72F65D485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A724F30E-D240-47FE-8578-F40A2D093076}
+	EndGlobalSection
+EndGlobal

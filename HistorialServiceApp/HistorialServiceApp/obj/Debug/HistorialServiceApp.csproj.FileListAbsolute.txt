@@ -1,0 +1,11 @@
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\bin\Debug\HistorialServiceApp.exe.config
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\bin\Debug\HistorialServiceApp.exe
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\bin\Debug\HistorialServiceApp.pdb
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.csproj.AssemblyReference.cache
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.Form1.resources
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.Properties.Resources.resources
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.csproj.GenerateResource.cache
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.exe
+C:\Users\Juan González\source\repos\HistorialServiceApp\HistorialServiceApp\obj\Debug\HistorialServiceApp.pdb
